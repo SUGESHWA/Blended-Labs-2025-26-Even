@@ -28,9 +28,9 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Explored IAM groups: EC2-Admin, EC2-Support, S3-Support  
 - Inspected managed and inline policies attached to groups  
 **Screenshot:**  
-<img width="1915" height="964" alt="Screenshot 2026-05-06 133305" src="https://github.com/user-attachments/assets/2651bce5-ba1d-4e0e-a3af-a3335ca5132a" />
+<img width="1252" height="507" alt="image" src="https://github.com/user-attachments/assets/a8b4c415-3d63-465f-ad87-a4d52dfe8290" />
 
-<img width="1919" height="979" alt="Screenshot 2026-05-06 133607" src="https://github.com/user-attachments/assets/b539c9df-646c-48ef-be9b-32d46cfcbb3f" />
+<img width="1255" height="502" alt="image" src="https://github.com/user-attachments/assets/d65adb4a-cd30-41ee-ab72-4bb66489722f" />
 
 
 ### Task 2: Add Users to Groups
@@ -39,13 +39,12 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Added user-3 to the EC2-Admin group  
 **Screenshot:**  
 
-<img width="1917" height="967" alt="Screenshot 2026-05-06 133715" src="https://github.com/user-attachments/assets/fee7aa91-bdbf-4681-8947-0683087413b3" />
+<img width="1920" height="1200" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/623b357b-f6a8-4f44-aaca-cce2e9dcee93" />
 
-<img width="1912" height="963" alt="Screenshot 2026-05-06 133734" src="https://github.com/user-attachments/assets/db8e6ccd-499c-4e04-9197-2414c4a7bc52" />
+<img width="1920" height="1200" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/f47d8b63-aae1-4ddc-b635-875568250e2a" />
 
-<img width="1916" height="965" alt="Screenshot 2026-05-06 133754" src="https://github.com/user-attachments/assets/ba1fe090-9862-4473-8f16-24f31cf3a6a7" />
+<img width="1920" height="1200" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/a323e8fa-06c2-450a-90f8-25ea3902e175" />
 
-<img width="1915" height="964" alt="Screenshot 2026-05-06 133825" src="https://github.com/user-attachments/assets/81909727-a481-4dbf-a655-f2d2628099d7" />
 
 
 ### Task 3: Test IAM User Permissions
@@ -56,22 +55,21 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 **Screenshot:**  
 User-1
 
-<img width="1918" height="966" alt="Screenshot 2026-05-06 135650" src="https://github.com/user-attachments/assets/44bd1029-ce66-4bd3-b990-36cb06f41f51" />
+<img width="1920" height="1200" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/8629dbe3-50ee-40ee-a948-378d49821bcc" />
 
-<img width="1918" height="974" alt="Screenshot 2026-05-06 135751" src="https://github.com/user-attachments/assets/d2adad49-df9c-43d4-8bba-454227685f06" />
 
 
 User-2
 
-<img width="1914" height="953" alt="Screenshot 2026-05-06 140027" src="https://github.com/user-attachments/assets/4fc8cc05-9e34-45c4-ada3-3679444d8519" />
+<img width="1920" height="1200" alt="Screenshot (104)" src="https://github.com/user-attachments/assets/36445090-53a8-43e4-9176-2605ffcba13a" />
 
-
-<img width="1919" height="960" alt="Screenshot 2026-05-06 140104" src="https://github.com/user-attachments/assets/74bae7a9-b8e0-4768-af23-288af55204ce" />
+<img width="1920" height="1200" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/c3d4fb4a-3c2d-4440-b92a-5ffa73454a32" />
 
 User-3
 
 
-<img width="1912" height="965" alt="Screenshot 2026-05-06 140305" src="https://github.com/user-attachments/assets/adec07b2-e165-4a1b-a85b-88d2f865fa82" />
+<img width="1920" height="1200" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/76882bfc-65c0-4c68-9133-1cb4f0f6ab20" />
+
 
 
 ## Workflow
